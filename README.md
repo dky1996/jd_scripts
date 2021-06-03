@@ -247,11 +247,6 @@ jd_scripts
 - 如果是群晖用户，在docker注册表搜`jd_scripts`，双击下载映像。
 不需要`docker-compose.yml`，只需建个logs/目录，调整`jd_scripts.syno.json`里面对应的配置值，然后导入json配置新建容器。
 若要自定义`my_crontab_list.sh`，再建个`my_crontab_list.sh`文件，配置参考`jd_scripts.my_crontab_list.syno.json`。
-![image](../icon/qh1.png)
-
-![image](../icon/qh2.png)
-
-![image](../icon/qh3.png)
 
 ### DOCKER专属环境变量
 
